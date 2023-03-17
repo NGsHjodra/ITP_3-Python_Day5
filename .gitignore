@@ -1,0 +1,4 @@
+.vscode
+# cpp_matmult except main.cpp file
+cpp_matmult/*
+!cpp_matmult/main.cpp
